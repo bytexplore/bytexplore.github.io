@@ -79,5 +79,3 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo: https://github.com/bytexplore/bytexplore.github.io.git  #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: master #published
