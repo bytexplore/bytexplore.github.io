@@ -1,7 +1,7 @@
 # Website details
 name: Name
 description: Description
-email: email@site.com
+email: bytexplore.official@gmail.com
 author: author
 lang: en
 locale: en_US
@@ -11,11 +11,11 @@ paginate: 10
 highlighter: rouge
 markdown: kramdown
 plugins: [jekyll-paginate]
-timezone: America/New_York
+timezone: Indonesia/Bandung
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://ozgrozer.github.io/dasper
+baseurl: https://bytexplore.github.io
 
 # Includes
 addthisId: ""
