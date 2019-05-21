@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default		
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
@@ -99,7 +99,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](./images/ebyteE32_DTU.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
